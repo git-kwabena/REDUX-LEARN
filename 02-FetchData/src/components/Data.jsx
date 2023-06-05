@@ -5,7 +5,7 @@ const Data = () => {
   console.log(data)
   return (
     <div>
-      Data:
+      Data: 
     </div>
   )
 }
